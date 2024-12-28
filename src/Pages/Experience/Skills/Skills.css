@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com");
+@import url("https://fonts.gstatic.com") ;
+@import url("https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Rubik+Dirt&display=swap");
+
+.skls > .skills-header{
+    font-size: 44px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 24px;
+    color: white;
+    font-family: "Rubik Dirt", serif;
+}
+
+.skls .skill{
+    display: grid;
+    grid-gap: 16px;
+    padding: 5px;
+    max-width: 1024px;
+    margin-inline: auto;
+
+}
+
+@media screen and (min-width: 600px){
+    .skill{
+        grid-template-columns: repeat(3, 3fr);
+    }
+}
+
+@media screen and (max-width: 600px){
+    .skill{
+        grid-template-columns: 1fr;
+    }
+}
+
+.skill .skill-set{
+    background-color: #0553fc;
+    padding: 24px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+
+
+.skill .skill-set:hover{
+    box-shadow: 0px 12px 16px white;
+}
+
+.skill-set span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    font-size: 48px;
+    background-color: white;
+    color: #0553fc;
+    border-radius: 35%;
+    margin-inline: auto;
+}
+
+.skill-set > header{
+    padding-block: 24px;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.skill-set .skills-list{
+    padding-block: 8px;
+    display: grid;
+    grid-template-columns: 1fr 28px;
+    color: hotpink;
+    text-transform: uppercase;
+}
+
+.skill-set:hover .skills-list{
+    color: chartreuse;
+
+}
+
+.skill-set .tech i{
+    padding: 3px;
+}
