@@ -12,13 +12,15 @@ function Projects() {
 
             <div className='portfolio-items'>
               <div className='portfolio-image has-margin-right'>
-                <img src='https://www.travelandleisure.com/thmb/SPUPzO88ZXq6P4Sm4mC5Xuinoik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/eiffel-tower-paris-france-EIFFEL0217-6ccc3553e98946f18c893018d5b42bde.jpg'/>
+                <img src='https://i.ibb.co/jLdKmVj/Screenshot-2024-12-28-at-7-49-35-PM.jpg'/>
               </div>
 
               <div className='portfolio-description'>
                 <h6>NBA Trivia</h6>
-                <h1>Trivia Game</h1>
-                <p>this is a test insert infromation here</p>
+                <h1>Python</h1>
+                <p>App developed with sports lovers specifically basketball lovers in mind.  Users have to chance to test their
+                  NBA knowledge and see if they can get all of the questions answered correctly.
+                </p>
                 <a href='#' className='cta'>click</a>
               </div>
             </div>
