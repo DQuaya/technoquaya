@@ -24,11 +24,11 @@ function Workhistory() {
                     </p>
 
                     <div className='WH-experience'>
-                        <div className='num'>1</div>
+                        {/* <div className='num'>1</div>
                         <div className='WH-exp'>
                             Years Of <br/>
                             Experience
-                        </div>
+                        </div> */}
 
 
                     </div>
@@ -57,18 +57,18 @@ function Workhistory() {
                     </p>
 
                     <div className='WH-experience'>
-                    <div className='num'>11</div>
+                    {/* <div className='num'>11</div>
                         <div className='WH-exp'>
                             Years Of <br/>
                             Experience
-                        </div>
+                        </div> */}
 
 
                     </div>
                 </div>
 
                 <div className='WH-boxes'>
-                    <img src='https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg'/>
+                    <img src='https://i.ibb.co/2vDrCh6/Screenshot-2025-01-01-at-10-25-39-PM.png'/>
 
                 </div>
             </div>
@@ -90,18 +90,18 @@ function Workhistory() {
                         </p>
 
                     <div className='WH-experience'>
-                    <div className='num'>11</div>
+                    {/* <div className='num'>11</div>
                         <div className='WH-exp'>
                             Years Of <br/>
                             Experience
-                        </div>
+                        </div> */}
 
 
                     </div>
                 </div>
 
                 <div className='WH-boxes'>
-                    <img src='https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg'/>
+                    <img src='https://i.ibb.co/CbgrYbf/IMG-1191.jpg'/>
 
                 </div>
             </div>
@@ -124,18 +124,18 @@ function Workhistory() {
                     </p>
 
                     <div className='WH-experience'>
-                    <div className='num'>11</div>
+                    {/* <div className='num'>1</div>
                         <div className='WH-exp'>
-                            Years Of <br/>
-                            Experience
-                        </div>
+                            Year Of <br/>
+                            Work
+                        </div> */}
 
 
                     </div>
                 </div>
 
                 <div className='WH-boxes'>
-                    <img src='https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg'/>
+                    <img src='https://i.ibb.co/f16W0Gq/Screenshot-2025-01-02-at-11-05-43-PM.png'/>
 
                 </div>
             </div>

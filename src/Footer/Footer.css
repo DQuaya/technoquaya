@@ -1,0 +1,107 @@
+footer{
+    background: #0553fc;
+    height: 170px;
+}
+
+.footerContainer{
+    width: 100%;
+    padding: 30px 30px 20px;
+    margin-top: auto;
+}
+
+
+/* stylig the social media icons */
+
+.socialIcons{
+    display: flex;
+    justify-content: center;
+}
+
+.socialIcons a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: black;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.socialIcons a i{
+    font-size: 2em;
+    color: #0553fc;
+    opacity: 0.9;
+}
+
+/* adding a hover effect for the icons */
+.socialIcons a:hover{
+    background-color: #0553fc;
+    transition: 0.5s;
+}
+
+.socialIcons a:hover i{
+    color: black;
+    border: 1px solid black;
+    transition: 0.5s;
+}
+
+
+/* styling the footer navigation link */
+
+.footerNav{
+    margin: 30px 0;
+}
+
+.footerNav ul{
+    display: flex;
+    justify-content: center;
+}
+
+.footerNav ul li a{
+    color: black;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1.3em;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+
+.footerNav ul li a:hover{
+    opacity: 1;
+}
+
+
+/* styling the copyright section of the footer */
+
+.footerBottom{
+    background-color: black;
+    /* padding: 20px; */
+    text-align: center;
+}
+
+.footerBottom p{
+    color: #0553fc;
+}
+
+
+.designerName{
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin: 0px 5px;
+    
+}
+
+/* making the footer responsive */
+
+@media (max-width: 700px){
+    .footerNav{
+        flex-direction: column;
+    }
+    .footerNav ul li{
+        width: 100%;
+        text-align: center;
+        margin: 10px;
+    }
+}
+
+/* styled by Quaya */

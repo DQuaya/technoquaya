@@ -1,6 +1,8 @@
 
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
+
 import React, { useState, useEffect } from "react";
 import '@fortawesome/fontawesome-free/css/all.css';
 import { PropagateLoader } from "react-spinners";
@@ -13,6 +15,7 @@ import Experience from './Pages/Experience/Experience';
 import Contact from './Pages/Contact/Contact';
 import Resume from './Pages/Resume/Resume';
 import ProjectsLanding from './Pages/Projects/ProjectsLanding/ProjectsLanding.js';
+import Footer from './Footer/Footer.js';
 
 function App() {
 
@@ -52,6 +55,7 @@ function App() {
               <Route path="resume" element={<Projects />} />
               <Route path="projects" element={<Resume />} />
           </Routes>
+          <Footer/>
           </>
           )}
     </div>

@@ -13,7 +13,7 @@ function ProjectsLanding() {
     <header className='pj-header'>
       <div class="project__section header__container">
         <div class="header__image">
-          <img src="https://images.squarespace-cdn.com/content/v1/54e7a1a6e4b08db9da801ded/1583002816518-ZH2PH7Y8NY21KG3YYKNL/Screen+Shot+2020-02-26+at+2.33.24+PM.png" alt="header" />
+          <img src="https://i.ibb.co/nfHNxHv/IMG-1183.jpg" alt="header" />
           <img src="https://images.squarespace-cdn.com/content/v1/54e7a1a6e4b08db9da801ded/1583002816518-ZH2PH7Y8NY21KG3YYKNL/Screen+Shot+2020-02-26+at+2.33.24+PM.png" alt="header" />
         </div>
         <div class="header__content">
@@ -33,7 +33,7 @@ function ProjectsLanding() {
         <div className='bottom-bar'>
             <div className='bottom-item'>
                 <span className='hover-bar'></span>
-                <p>Trail Ahead</p>
+                <p>Trail</p>
                 <div className='image-box'>
                     <img src={p1}/>
                 </div>
@@ -41,7 +41,7 @@ function ProjectsLanding() {
             </div>
             <div className='bottom-item'>
                 <span className='hover-bar'></span>
-                <p>B-Loadouts</p>
+                <p>Loadouts</p>
                 <div className='image-box'>
                     <img src={p2}/>
                 </div>
@@ -49,7 +49,7 @@ function ProjectsLanding() {
             </div>
             <div className='bottom-item'>
                 <span className='hover-bar'></span>
-                <p>NBBBBB</p>
+                <p>Testing</p>
                 <div className='image-box'>
                     <img src={p3}/>
                 </div>
@@ -57,7 +57,7 @@ function ProjectsLanding() {
             </div>
             <div className='bottom-item'>
                 <span className='hover-bar'></span>
-                <p>B-Release</p>
+                <p>Release</p>
                 <div className='image-box'>
                     <img src='https://i.natgeofe.com/k/5b396b5e-59e7-43a6-9448-708125549aa1/new-york-statue-of-liberty.jpg'/>
                 </div>

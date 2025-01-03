@@ -47,7 +47,7 @@ function Contact() {
         </div>
         
           <div className='contact-picture'>
-            <img src='https://nexgard.com.au/sites/default/files/2024-04/AdobeStock628558446_360x316.jpeg' alt='Contact Picture' />
+            <img src='https://i.ibb.co/nDJ3c2x/IMG-1189.jpg' alt='Contact Picture' />
           </div>
       
       </div>
