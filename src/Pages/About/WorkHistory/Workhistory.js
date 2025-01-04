@@ -57,7 +57,7 @@ function Workhistory() {
                     </p>
 
                     <div className='WH-experience'>
-                    {/* <div className='num'>11</div>
+                    {/* <div className='num'>3</div>
                         <div className='WH-exp'>
                             Years Of <br/>
                             Experience
@@ -90,7 +90,7 @@ function Workhistory() {
                         </p>
 
                     <div className='WH-experience'>
-                    {/* <div className='num'>11</div>
+                    {/* <div className='num'>3</div>
                         <div className='WH-exp'>
                             Years Of <br/>
                             Experience

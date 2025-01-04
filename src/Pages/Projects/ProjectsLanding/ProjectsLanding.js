@@ -13,8 +13,8 @@ function ProjectsLanding() {
     <header className='pj-header'>
       <div class="project__section header__container">
         <div class="header__image">
-          <img src="https://i.ibb.co/nfHNxHv/IMG-1183.jpg" alt="header" />
-          <img src="https://images.squarespace-cdn.com/content/v1/54e7a1a6e4b08db9da801ded/1583002816518-ZH2PH7Y8NY21KG3YYKNL/Screen+Shot+2020-02-26+at+2.33.24+PM.png" alt="header" />
+          <img src="https://i.ibb.co/nPX8q08/IMG-1178.jpg" alt="header" />
+          <img src="https://i.ibb.co/6Fn4fFk/IMG-1166.jpg" alt="header" />
         </div>
         <div class="header__content">
           <div>

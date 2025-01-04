@@ -13,7 +13,6 @@ import Navigation from './Navigation/Navigation';
 import About from './Pages/About/About.js';
 import Experience from './Pages/Experience/Experience';
 import Contact from './Pages/Contact/Contact';
-import Resume from './Pages/Resume/Resume';
 import ProjectsLanding from './Pages/Projects/ProjectsLanding/ProjectsLanding.js';
 import Footer from './Footer/Footer.js';
 
@@ -53,7 +52,6 @@ function App() {
               <Route path="projects" element={<ProjectsLanding/>} />
               <Route path="contact" element={<Contact />} />
               <Route path="resume" element={<Projects />} />
-              <Route path="projects" element={<Resume />} />
           </Routes>
           <Footer/>
           </>

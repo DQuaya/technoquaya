@@ -1,4 +1,4 @@
-header{
+.skills-header{
   font-size: 44px;
   text-transform: uppercase;
   text-align: center;
@@ -7,16 +7,8 @@ header{
   font-family: "Rubik Dirt", serif;
 }
 
-
-
-
-/* testing */
-
-
-
 .skills-container { padding-inline: 15px; }
 
-/* .section { padding-block: var(--section-padding); } */
 
 
 .has-scrollbar {
@@ -86,51 +78,8 @@ header{
 
 
 
-
-
-
-
-
-/**
- * responsive for larger than 768px screen
- */
-
-@media (min-width: 768px) {
-
-  /**
-   * CUSTOM PROPERTY
-   */
-
-  
-
-
-  /**
-   * REUSED STYLE
-   */
-
-  /* .container { max-width: 720px; } */
-
-
-
-
-
-
-  /* .special-banner .banner-title { --fs-4: 2.2rem; }
-
-  .special-product .has-scrollbar > li { min-width: 100%; }
-
-  .special .container {
-    display: flex;
-    gap: 25px;
-  } */
-
-
-
-}
-
-
 @media (min-width: 992px) {
-  /* .container { max-width: 970px; } */
+
 
   .has-scrollbar > li { min-width: calc(33.33% - 16.66px); }
 }
@@ -138,15 +87,4 @@ header{
 
 
 
-
-/**
- * responsive for larger than 1200px screen
- */
-
-/* @media (min-width: 1200px) {
-
-} */
-
-
-  /* .container { max-width: 1280px; } */
 

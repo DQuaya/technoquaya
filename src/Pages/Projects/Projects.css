@@ -18,6 +18,10 @@
     width: 30rem;
 }
 
+.portfolio-description{
+    flex: 1;
+}
+
 .portfolio-description h1{
    font-size: 3rem;
    font-weight: 300;
@@ -121,3 +125,49 @@
         margin-right: 2px;
     }
   }
+
+
+  @media screen and (max-width: 768px) {
+    .portfolio-items {
+      flex-direction: column;
+      text-align: center;
+      overflow: hidden;
+    }
+  
+    .has-margin-right {
+      margin-right: 0;
+    }
+  
+    .portfolio-description {
+      padding: 0;
+    }
+
+    .portfolio-description p{
+        font-size: 15px;
+        
+    }
+  
+    .section-heading h1 {
+      font-size: 1.5rem;
+    }
+  
+    .section-heading h6 {
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .section-heading h1 {
+      font-size: 1.2rem;
+    }
+  
+    .section-heading h6 {
+      font-size: 0.8rem;
+    }
+  
+    .cta {
+      padding: 8px 15px;
+      font-size: 0.9rem;
+    }
+  }
+  

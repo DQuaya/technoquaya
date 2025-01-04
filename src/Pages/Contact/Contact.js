@@ -47,7 +47,7 @@ function Contact() {
         </div>
         
           <div className='contact-picture'>
-            <img src='https://i.ibb.co/nDJ3c2x/IMG-1189.jpg' alt='Contact Picture' />
+            <img src='https://i.ibb.co/MsNVK9s/IMG-1175.jpg' alt='Contact Picture' />
           </div>
       
       </div>

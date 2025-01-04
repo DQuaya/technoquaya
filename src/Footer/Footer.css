@@ -9,9 +9,6 @@ footer{
     margin-top: auto;
 }
 
-
-/* stylig the social media icons */
-
 .socialIcons{
     display: flex;
     justify-content: center;
@@ -31,7 +28,7 @@ footer{
     opacity: 0.9;
 }
 
-/* adding a hover effect for the icons */
+
 .socialIcons a:hover{
     background-color: #0553fc;
     transition: 0.5s;
@@ -43,8 +40,6 @@ footer{
     transition: 0.5s;
 }
 
-
-/* styling the footer navigation link */
 
 .footerNav{
     margin: 30px 0;
@@ -69,11 +64,9 @@ footer{
 }
 
 
-/* styling the copyright section of the footer */
 
 .footerBottom{
     background-color: black;
-    /* padding: 20px; */
     text-align: center;
 }
 
@@ -91,7 +84,7 @@ footer{
     
 }
 
-/* making the footer responsive */
+
 
 @media (max-width: 700px){
     .footerNav{
@@ -103,5 +96,3 @@ footer{
         margin: 10px;
     }
 }
-
-/* styled by Quaya */

@@ -184,15 +184,23 @@
         font-size: 1.5rem;
     }
     .aboutcontent h1{
-        font-size: 3rem;
+        font-size: 1rem;
     }
 
-    /* .aboutcontent p{
-    } */
+    .aboutcontent .about-para{
+        font-size: 14px;
+    }
+
 
     .aboutimg img{
         width: 70vw;
-        margin-top: 1rem;
+        margin-top: 5rem;
+    }
+    .aboutsocial{
+        margin-top: -45px;
+    }
+    .aboutbtn{
+        margin-top: -30px;
     }
 
 }

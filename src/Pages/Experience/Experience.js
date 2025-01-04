@@ -13,11 +13,16 @@ function Experience() {
     <div className="p-slider">
           <div className="p-list">
           <div className="p-item" style={{ background: 'linear-gradient(#0553fc,rgb(0, 0, 0))' }}>
-          <img src='https://i.ibb.co/fHznKG5/release.jpg' alt="Release" />
+          <img src='https://i.ibb.co/QmY6Wdw/IMG-7439.jpg' alt="Release" />
               <div className="p-content">
-                <div className="p-title">Work History</div>
+                <div className="p-title">History</div>
                 <div className="p-description">
-                  Developed the workflow for the acquisition of new clients and companies using flowable <br/>
+                  I bring a diverse background in software development, with roles ranging from Associate 
+                  Engineer to Front-End Developer and a hands-on internship in front-end development. 
+                  My experience spans designing user interfaces, developing full-stack applications, and 
+                  automating workflows for enhanced efficiency. I have contributed to innovative projects 
+                  in both corporate and independent capacities, consistently delivering functional and 
+                  visually appealing solutions tailored to client and user needs. <br/>
                   {/* <br/> */}
                  
                 </div>

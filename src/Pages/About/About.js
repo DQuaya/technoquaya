@@ -32,7 +32,7 @@ function About() {
       <div className="aboutcontent">
         <h1>Hi, i'm <span>DonQuaya</span> a</h1>
         <h5 className="typing"></h5>
-        <p>
+        <p className="about-para">
           Versatile Fullstack Developer, skilled in frontend development using
           modern tools and frameworks such as React, Angular. 
           I build scalable, responsive web and mobile applications. 

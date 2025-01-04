@@ -127,5 +127,14 @@
         align-items: center;
         width: 100%;
     }
+    .WH-details .WH-boxes img{
+        width: 250px;
+    }
 }
 
+/* @media (max-width: 678px){
+    .skills-card {
+      background-size: contain; 
+      width: 150px;
+    }
+  } */

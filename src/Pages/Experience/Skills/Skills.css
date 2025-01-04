@@ -30,6 +30,9 @@
     .skill{
         grid-template-columns: 1fr;
     }
+    .skls{
+        margin-top: 200px;
+    }
 }
 
 .skill .skill-set{

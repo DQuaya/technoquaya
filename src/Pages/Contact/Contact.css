@@ -206,13 +206,18 @@
         flex-direction: column;
     }
     .contact-container .contact-info,
-    .contact-container.contact-picture{
+    .contact-container .contact-picture{
         width: 100%;
     } 
-    .contact-container.contact-picture{
-        padding: 40px;
+    .contact-container .contact-picture{
+        padding: 30px;
     }
-    .contact-container.contact-picture img{
-        padding: 10px;
+    .contact-container .contact-picture img{
+      height: 200px;
+      width: 200px;
     }
+    .contact-picture img {
+        content: url('https://i.ibb.co/YcYdM6M/IMG-1170.jpg'); 
+      }
+      
 }
