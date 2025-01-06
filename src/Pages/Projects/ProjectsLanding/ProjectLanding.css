@@ -222,16 +222,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap");
 
-:root {
-  --primary-color: #3685fb;
-  --primary-color-dark: #2f73d9;
-  --secondary-color: #f60808;
-  --text-dark: #0d213f;
-  --text-light: #767268;
-  --extra-light: #0553fc;
-  --max-width: 100%;
-}
-
 
 /* img {
   width: 100%;
