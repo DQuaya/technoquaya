@@ -51,7 +51,6 @@ function App() {
               <Route path="experience" element={<Experience/>} />
               <Route path="projects" element={<ProjectsLanding/>} />
               <Route path="contact" element={<Contact />} />
-              <Route path="resume" element={<Projects />} />
           </Routes>
           <Footer/>
           </>

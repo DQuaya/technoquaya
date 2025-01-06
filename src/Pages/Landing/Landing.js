@@ -11,7 +11,11 @@ function landing() {
           <h1><span>Quaya</span> Brown</h1>
             <img src={img1} class="landing-img"/>
           <div className='landing-btns'>
-            <button className="about-btn">About Me</button>
+          <button 
+            className="about-btn" 
+            onClick={() => window.location.href = '/about'}>
+            About Me
+          </button>
             <button 
               className="resume-btn" 
               onClick={() => window.open('https://docs.google.com/document/d/e/2PACX-1vRtIIX0gqoRdKJfLYDMgC0Pw0Q2VcgDtpQSHzS_jxcwrAtf7SHOILNeA5FEW2AaL8Rxikc9JGjgX0WX/pub?embedded=true', '_blank')}

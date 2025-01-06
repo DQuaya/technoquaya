@@ -220,23 +220,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap");
 
 :root {
@@ -250,18 +233,10 @@
 }
 
 
-
-
-
-
 /* img {
   width: 100%;
   display: block;
 } */
-
-
-
-
 
 
 /* header {
@@ -335,21 +310,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 @media (width < 1200px) {
   .header__image img:nth-child(1) {
     max-width: 300px;
     margin-left: 75px;
-    margin-top: 85px;
+    margin-top: 65px;
     border: 0.5rem solid black;
   }
 
@@ -382,7 +347,9 @@
 .project-banner .bottom-bar .bottom-item p{
     color: #3685fb;
     font-size: 15px;
+    margin-left: 10px;
 }
+
 
 }
 

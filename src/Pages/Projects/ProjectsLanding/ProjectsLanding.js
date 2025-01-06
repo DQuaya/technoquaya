@@ -20,9 +20,7 @@ function ProjectsLanding() {
           <div>
             <h1>Projects🎨</h1>
             <p class="section__subtitle">
-              Make your travel more enjoyable with us. We are the best travel
-              agency and we are providing the best travel services for our
-              clients.
+              Check out some of the projects that I have created, designed and developed.
             </p>
             
           </div>
@@ -37,7 +35,7 @@ function ProjectsLanding() {
                 <div className='image-box'>
                     <img src={p1}/>
                 </div>
-                <a href='#'>Explore</a>
+                <a href='https://trail-ahead.onrender.com/'>Explore</a>
             </div>
             <div className='bottom-item'>
                 <span className='hover-bar'></span>
@@ -45,9 +43,9 @@ function ProjectsLanding() {
                 <div className='image-box'>
                     <img src={p2}/>
                 </div>
-                <a href='#'>Explore</a>
+                <a href='https://cod-loadouts.onrender.com/'>Explore</a>
             </div>
-            <div className='bottom-item'>
+            {/* <div className='bottom-item'>
                 <span className='hover-bar'></span>
                 <p>Testing</p>
                 <div className='image-box'>
@@ -62,7 +60,7 @@ function ProjectsLanding() {
                     <img src='https://i.natgeofe.com/k/5b396b5e-59e7-43a6-9448-708125549aa1/new-york-statue-of-liberty.jpg'/>
                 </div>
                 <a href='#'>Explore</a>
-            </div>
+            </div> */}
         </div>
     </div>
     <Projects/>
