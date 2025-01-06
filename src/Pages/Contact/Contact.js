@@ -35,12 +35,12 @@ function Contact() {
           <ul className='connect-social'>
             <li>
               <a href='https://www.linkedin.com/' target="_blank" rel="noopener noreferrer">
-                <i className="fa-solid fa-linkedin"></i>
+              <i className="ri-linkedin-box-line"></i>
               </a>
             </li>
             <li>
               <a href='https://www.github.com/' target="_blank" rel="noopener noreferrer">
-                <i className="fa-solid fa-github"></i>
+              <i className="ri-github-line"></i>
               </a>
             </li>
           </ul>
