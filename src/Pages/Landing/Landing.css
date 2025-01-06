@@ -1,5 +1,5 @@
 
-  
+/* Styled by DonQuaya Brown */
   .landing-content h3 {
     font-size: 2rem;
     font-weight: 400;
@@ -102,7 +102,7 @@
 
   .about-btn,
 .resume-btn {
-  margin: 5px; /* Optional: Adds spacing around each button */
+  margin: 5px; 
 }
 
 h1 span{
@@ -149,3 +149,12 @@ h1 span{
     font-size: 25px;
   }
 }
+
+
+@media (max-width: 375px) {
+  .landing-img {
+    width: 270px;
+  }
+}
+
+/* Styled by DonQuaya Brown */

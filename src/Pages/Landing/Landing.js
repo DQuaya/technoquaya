@@ -8,6 +8,7 @@ function landing() {
      
       <div className="landing-content">
           <h3>Hello I'm</h3>
+          <br/>
           <h1><span>Quaya</span> Brown</h1>
             <img src={img1} class="landing-img"/>
           <div className='landing-btns'>

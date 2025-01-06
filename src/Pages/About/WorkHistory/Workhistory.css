@@ -1,10 +1,12 @@
+/* Styled by DonQuaya Brown */
+
 .WH{
     background: black;
     margin-top: 30px;
     width: 85%;
-    margin-left: auto; /* Center the section */
-    margin-right: auto; /* Center the section */
-    padding: 20px; /* Add some padding */
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 20px; 
     box-sizing: border-box; 
 }
 
@@ -138,3 +140,6 @@
       width: 150px;
     }
   } */
+
+
+  /* Styled by DonQuaya Brown */

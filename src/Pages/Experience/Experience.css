@@ -1,3 +1,5 @@
+/* Styled by DonQuaya Brown */
+
 .p-slider{
     height: 100vh;
     /* margin-top: 200px; */
@@ -52,12 +54,13 @@
         margin-top: 150px;
     }
     .p-slider .p-list .p-item img {
-      width: 100%; /* Adjust width to fit container */
-      height: auto; /* Maintain aspect ratio */
-      margin: 0 auto; /* Center image horizontally */
-      display: block; /* Ensure proper centering */
+      width: 100%;
+      height: auto; 
+      margin: 0 auto; 
+      display: block;
       margin-top: 150px;
     }
     
   }
 
+  /* Styled by DonQuaya Brown */

@@ -2,6 +2,7 @@
 @import url("https://fonts.gstatic.com") ;
 @import url("https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Rubik+Dirt&display=swap");
 
+
 .skls > .skills-header{
     font-size: 44px;
     text-transform: uppercase;
@@ -84,3 +85,5 @@
 .skill-set .tech i{
     padding: 3px;
 }
+
+/* Styled by DonQuaya Brown */
