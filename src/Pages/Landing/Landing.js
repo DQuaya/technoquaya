@@ -19,7 +19,7 @@ function landing() {
           </button>
             <button 
               className="resume-btn" 
-              onClick={() => window.open('https://docs.google.com/document/d/e/2PACX-1vRtIIX0gqoRdKJfLYDMgC0Pw0Q2VcgDtpQSHzS_jxcwrAtf7SHOILNeA5FEW2AaL8Rxikc9JGjgX0WX/pub?embedded=true', '_blank')}
+              onClick={() => window.open('https://docs.google.com/document/d/14pESvEmOb5_L2d4AR0KPoc1l1CSBDmNplAkl_lGCSts/edit?usp=sharing', '_blank')}
             >
             Resume
           </button>
